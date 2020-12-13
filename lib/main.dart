@@ -51,7 +51,7 @@ class CalculatorAppState extends State<CalculatorApp> {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Кальк',
+      title: 'Калькулятор',
       home: Scaffold(
         backgroundColor: Color(0xff283637),
         body:
